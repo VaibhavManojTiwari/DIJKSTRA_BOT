@@ -1,9 +1,8 @@
 
 /*
-*Team Id:1776
-*Author List: Sharma Pooja Balrambhai, Tarun Kumar, Vaibhav Tiwari, Sathyam Rajpal.
+*
+*Author List:Vaibhav Tiwari.
 *Filename: NS_Task_1_Sandbox.cpp
-*Theme: Nutty Squirrel.
 *Functions: Square(),line_follow(),Task_1_1(),Task_1_2(),forward_wls(),left_turn_wls(),right_turn_wls(),
 	        final(),make_north(),cleaner(),check_color(),refresh(),directions(),planner(),reroute(),align(),
 		    calculate(),go_place(),Square(),pick_it_up(),move().
