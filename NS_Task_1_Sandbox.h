@@ -1,8 +1,8 @@
 #include "NS_Task_1_Predef.h"
 
 /*
-*Team Id:1776
-*Author List: Sharma Pooja Balrambhai, Tarun Kumar, Vaibhav Tiwari, Sathyam Rajpal.
+*
+*Author List:Vaibhav Tiwari.
 *Filename: NS_Task_1_Sandbox.cpp
 *Theme: Nutty Squirrel.
 *Functions: Square(),line_follow(),Task_1_1(),Task_1_2(),forward_wls(),left_turn_wls(),right_turn_wls(),
